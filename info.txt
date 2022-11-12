@@ -1,0 +1,4 @@
+red color: #E50914
+inputs background color: #454545
+text color:#737373
+learn more: #074DEB
